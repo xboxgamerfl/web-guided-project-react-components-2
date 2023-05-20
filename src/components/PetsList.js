@@ -1,4 +1,5 @@
 import React from 'react'
+import Pets from "./Pets"
 // 👉 1- We need the Pet component
 
 export default function PetsList(props) {
